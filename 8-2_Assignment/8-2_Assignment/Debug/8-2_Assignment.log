@@ -1,0 +1,59 @@
+﻿  MainCode.cpp
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(64,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(65,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(66,1): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(344,17): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(597,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Utilities\linmath.h(604,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'Source/MainCode.cpp')
+  
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\shared\minwindef.h(130,1): warning C4005: 'APIENTRY': macro redefinition
+  (compiling source file 'Source/MainCode.cpp')
+  C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Libraries\GLFW\include\GLFW\glfw3.h(123,1):
+  see previous definition of 'APIENTRY'
+  
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(13,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(81,16): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(87,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(88,7): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(89,12): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(104,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(105,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(114,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(124,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(144,19): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(172,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(175,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(189,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(192,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(205,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(208,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(221,20): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(224,14): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(248,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,95): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,79): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,67): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(273,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(294,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(303,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(310,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(331,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(360,38): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(360,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(360,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(360,26): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(367,19): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Source\MainCode.cpp(375,19): warning C4305: '+=': truncation from 'double' to 'float'
+  8-2_Assignment.vcxproj -> C:\Users\David-PC\Documents\SNHU\cs 330\CS330Content\Projects\8-2_Assignment\Debug\8-2_Assignment.exe
